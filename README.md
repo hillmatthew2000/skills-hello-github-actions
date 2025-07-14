@@ -3,6 +3,7 @@
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey hillmatthew2000!
+This is a fun exercise!
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
